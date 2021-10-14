@@ -9,6 +9,6 @@ val_data: the validation dataset.
 
 evaluate.py: Run the script to get the results. Changing the valmodel can obtain different results.
 
-Tensorflow version: 1.13.1
-Python: 3.6.0
-window10
+Tensorflow version: 1.13.1,
+Python: 3.6.0,
+window10.
