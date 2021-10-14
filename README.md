@@ -3,7 +3,7 @@ geometry adaptive steady-state convection prediction.
 
 CNN file: the structure of our model.
 
-model file: the trained model.
+model file: the trained model is mounted on Releases.
 
 val_data: the validation dataset.
 
